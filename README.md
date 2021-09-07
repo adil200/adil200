@@ -1,6 +1,6 @@
 - 👋 Hi, I’m N Mohammed Adil
 - 👀 I’m interested in Data Science and k-pop music.
-- 🌱 I’m currently Studying Computer science and engineering (Data Science).
+- 🌱 I’m currently studying Computer science and engineering (Data Science).
 
 
 <!---
