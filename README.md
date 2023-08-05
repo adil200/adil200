@@ -1,12 +1,3 @@
-- 👋 Hi, I’m N Mohammed Adil
-- 👀 I’m interested in Data Science and k-pop music.
-- 🌱 I’m currently studying Computer science and engineering (Data Science).
-
-
-<!---
-adil200/adil200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # 💫 About Me:
 👋 Hello! I'm Adil Naib, a passionate data science enthusiast, and Kaggle Notebooks Expert currently pursuing a degree in Data Science at Presidency University. I've acquired expertise in data wrangling, data visualization, and predictive modeling through courses and independent projects.<br><br>🖋 I've written and published informative data science blogs on Analytics Vidhya, covering topics such as "Dealing with Sparse Datasets" and "Anomaly Detection on Google Stock Data." As I continue my journey in the data science world, I aim to create more valuable content that provides insights, tips, and solutions to complex data-related challenges.<br><br>💼 I'm excited to put my knowledge and talents to use in the real world and acquire first-hand experience through internships or other possibilities. I eventually want to work in the field of data science and contribute significantly.<br><br>Outside of data science, I enjoy listening to K-pop music.
 
