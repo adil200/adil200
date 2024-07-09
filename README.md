@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hello! I'm Adil Naib, a passionate data science enthusiast, and Kaggle Notebooks Expert currently pursuing a degree in Data Science at Presidency University. Through courses and independent projects, I've acquired expertise in data wrangling, data visualization, and predictive modeling.<br><br>🖋 I've written and published informative data science blogs on Analytics Vidhya, covering "Dealing with Sparse Datasets" and "Anomaly Detection on Google Stock Data." As I continue my journey in the data science world, I aim to create more valuable content that provides insights, tips, and solutions to complex data-related challenges.<br><br>💼 I'm excited to use my knowledge and talents in the real world and acquire first-hand experience through internships or other possibilities. I eventually want to work in the field of data science and contribute significantly.<br><br>In my free time, I enjoy writing Data Science blogs and sharing my knowledge with the community.
+👋 Hello! I'm Adil Naib, a passionate data science enthusiast and Kaggle Notebooks Expert, having graduated with a degree in Data Science from Presidency University. Through courses and independent projects, I've acquired expertise in Exploratory Data Analysis, Data Visualization, and Predictive Modelling.<br><br>
+
+🖋 I've written and published informative data science blogs on Analytics Vidhya and GeeksforGeeks. As I continue my journey in the data science world, I aim to create more valuable content that provides insights, tips, and solutions to complex data-related challenges.<br><br>
+
+💼 I'm excited to use my knowledge and talents in the real world and acquire first-hand experience through internships or other opportunities. I eventually want to work in data science and contribute significantly.<br><br>
+
+In my free time, I enjoy writing Data Science blogs and sharing my knowledge with the community.
 
 
 ## 🌐 Socials:
